@@ -5,3 +5,11 @@ body {
    font-size: 1.2rem;
 
 }
+
+.align-right {
+    display: flex;
+   /* justify-content: flex-end; */ */
+}
+.align-right button {
+    margin-top: 30px;
+}
